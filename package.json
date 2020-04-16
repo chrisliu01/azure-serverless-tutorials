@@ -11,9 +11,11 @@
     "serverless"
   ],
   "dependencies": {
+    "serverless-mysql": "^1.5.4"
   },
   "devDependencies": {
     "serverless-azure-functions": "^1.0.2",
+    "serverless-mysql": "^1.5.4",
     "serverless-offline": "^6.1.4"
   }
 }
