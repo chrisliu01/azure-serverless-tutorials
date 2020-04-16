@@ -1,3 +1,5 @@
+#### Azure Serverless Funcation 
+##### (note: I created this tutorials as course materials, so basically it is free to use for any education purpose. )
 This tutorial provides references for review and familiarization with how to create and run a web application with Nodejs and Express on Azure Serverless, more specifically it emphasizes the web services with DB connections to allow end-users query web services with typical CRUD operations.   
 
 Nomenclature:
